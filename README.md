@@ -1,0 +1,2 @@
+# EEGclassificationANN
+Deep-Learning Algorithm utilized to create a Pattern-Recog ANN. This network will be implemented in a tool that classifies EEG scans and notifies the user of abnormalities in the scan. After the tool is created, a desktop application will be made for easy access. Code here will include the Graphical User Interface of the tool as well as Java Code for possible mobile implementation.
