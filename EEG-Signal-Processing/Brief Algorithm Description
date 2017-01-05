@@ -1,0 +1,5 @@
+The first process of the classification experiment is to pre-process the data.
+
+The data was obtained from http://epileptologie-bonn.de/cms/front_content.php
+
+The data was in .txt format, basically a regular time series. A quick plot of this primitive data shows several signified graphs.
